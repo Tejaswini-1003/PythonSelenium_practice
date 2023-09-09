@@ -1,0 +1,86 @@
+1694106989941	geckodriver	INFO	Listening on 127.0.0.1:53371
+1694106993020	mozrunner::runner	INFO	Running command: "C:\\Users\\cympl.lp011\\.cache\\selenium\\firefox\\win64\\117.0\\firefox.exe" "--marionette" "--remote-debu ... remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CYMPL~1.LP0\\AppData\\Local\\Temp\\rust_mozprofilejNH2K3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694106994170	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694106994493	Marionette	INFO	Listening on port 53381
+WebDriver BiDi listening on ws://127.0.0.1:53372
+Read port: 53381
+1694106994790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53372/devtools/browser/ac24fe23-ae58-4386-a6e0-499235d28a30
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yc/l/en_GB/JS56naCox55.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694107000041	Marionette	INFO	Stopped listening on port 53381
+Dynamically enable window occlusion 1
+1694107056036	geckodriver	INFO	Listening on 127.0.0.1:53440
+1694107059115	mozrunner::runner	INFO	Running command: "C:\\Users\\cympl.lp011\\.cache\\selenium\\firefox\\win64\\117.0\\firefox.exe" "--marionette" "--remote-debu ... remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CYMPL~1.LP0\\AppData\\Local\\Temp\\rust_mozprofile3E3KCo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694107059505	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694107059655	Marionette	INFO	Listening on port 53450
+WebDriver BiDi listening on ws://127.0.0.1:53441
+Read port: 53450
+1694107059855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53441/devtools/browser/f50e9d91-4b6d-4273-82d4-cc3e9e9e9615
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yc/l/en_GB/JS56naCox55.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694107063908	Marionette	INFO	Stopped listening on port 53450
+Dynamically enable window occlusion 1
+1694107083000	geckodriver	INFO	Listening on 127.0.0.1:53514
+1694107086048	mozrunner::runner	INFO	Running command: "C:\\Users\\cympl.lp011\\.cache\\selenium\\firefox\\win64\\117.0\\firefox.exe" "--marionette" "--remote-debu ... remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CYMPL~1.LP0\\AppData\\Local\\Temp\\rust_mozprofileMO4eVS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694107086469	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694107086665	Marionette	INFO	Listening on port 53524
+WebDriver BiDi listening on ws://127.0.0.1:53515
+Read port: 53524
+1694107086942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53515/devtools/browser/1a7f723e-0ac0-4600-80c3-1fbce6c5ce03
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yc/l/en_GB/JS56naCox55.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694107090586	Marionette	INFO	Stopped listening on port 53524
+Dynamically enable window occlusion 1
+1694107136389	geckodriver	INFO	Listening on 127.0.0.1:53586
+1694107139450	mozrunner::runner	INFO	Running command: "C:\\Users\\cympl.lp011\\.cache\\selenium\\firefox\\win64\\117.0\\firefox.exe" "--marionette" "--remote-debu ... remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CYMPL~1.LP0\\AppData\\Local\\Temp\\rust_mozprofileYcyjy8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694107139885	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694107140035	Marionette	INFO	Listening on port 53595
+WebDriver BiDi listening on ws://127.0.0.1:53587
+Read port: 53595
+1694107140320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53587/devtools/browser/5ce375fc-bd86-4281-b90f-c2b4fa62506e
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yc/l/en_GB/JS56naCox55.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694107143849	Marionette	INFO	Stopped listening on port 53595
+Dynamically enable window occlusion 1
+1694107219391	geckodriver	INFO	Listening on 127.0.0.1:53655
+1694107222442	mozrunner::runner	INFO	Running command: "C:\\Users\\cympl.lp011\\.cache\\selenium\\firefox\\win64\\117.0\\firefox.exe" "--marionette" "--remote-debu ... remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CYMPL~1.LP0\\AppData\\Local\\Temp\\rust_mozprofile3P25Kq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694107222891	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694107223049	Marionette	INFO	Listening on port 53666
+WebDriver BiDi listening on ws://127.0.0.1:53656
+Read port: 53666
+1694107223323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53656/devtools/browser/4460a478-bf4a-4b4a-8c6d-a2244cd4d7e7
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yc/l/en_GB/JS56naCox55.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/_RTr5rPmaFJ.js?_nc_x=Ij3Wp8lg5Kz, line 319: Script terminated by timeout at:
+b@https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/_RTr5rPmaFJ.js?_nc_x=Ij3Wp8lg5Kz:319:68
+d@https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/_RTr5rPmaFJ.js?_nc_x=Ij3Wp8lg5Kz:321:1912
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/_RTr5rPmaFJ.js?_nc_x=Ij3Wp8lg5Kz:271:197
+
+1694107549663	Marionette	INFO	Stopped listening on port 53666
+Dynamically enable window occlusion 1
+OOLS=1 in the environment
+1694107506394	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694107506550	Marionette	INFO	Listening on port 54304
+WebDriver BiDi listening on ws://127.0.0.1:54295
+Read port: 54304
+1694107506841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54295/devtools/browser/a1d4c0de-9357-4e17-87d1-68b35b0e32e6
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yc/l/en_GB/JS56naCox55.js?_nc_x=Ij3Wp8lg5Kz, line 24: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694107555313	Marionette	INFO	Stopped listening on port 54304
+Dynamically enable window occlusion 1
